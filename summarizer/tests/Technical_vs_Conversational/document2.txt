@@ -1,0 +1,1 @@
+Quantum computers are a new kind of computer. They use special rules from physics to solve problems. These computers can be very fast, but they are also hard to build and keep working. 

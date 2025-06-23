@@ -1,0 +1,1 @@
+Summarized document1 in the style of document2. Style: avg sentence length 6.0, vocabulary size 10.
